@@ -2,6 +2,8 @@
 Curso de formação em desenvolvimento web frontend: HTML & CSS.
 
 Bem-vindo(a) ao meu repositório de estudos frontend! Aqui armazeno todo o conhecimento e projetos desenvolvidos durante meu curso de formação em desenvolvimento web frontend.
+📚 Minhas Anotações:
+https://tartan-income-f6e.notion.site/Curso-FullStack-1b9fe7743f588000bb60f39cff657792
 
 📚 Sobre o Curso
 Esta parte do curso aborda as principais tecnologias da base ao avançado para se tornar um desenvolvedor web front-end:
