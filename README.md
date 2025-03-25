@@ -1,7 +1,7 @@
 🚀 Frontend Development Study Repository
 Curso de formação em desenvolvimento web frontend: HTML & CSS.
 
-Bem-vindo(a) ao meu repositório de estudos frontend! Aqui armazeno todo o conhecimento e projetos desenvolvidos durante meu curso de formação em desenvolvimento web frontend.
+Bem-vindo(a) ao meu repositório de estudos frontend! Aqui armazeno todo o conhecimento e projetos desenvolvidos durante meu curso de formação em desenvolvimento web frontend, aqui você poderá acompanhar a minha evolução.
 📚 Minhas Anotações:
 https://tartan-income-f6e.notion.site/Curso-FullStack-1b9fe7743f588000bb60f39cff657792
 
