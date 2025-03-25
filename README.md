@@ -1,4 +1,4 @@
-![f7d8262e-a584-48a8-ab2a-2c8963907457](https://github.com/user-attachments/assets/e8b7af8c-3bd2-40b7-8d7d-d9d16c7bfdb0)🚀 Frontend Development Study Repository
+🚀 Frontend Development Study Repository
 Curso de formação em desenvolvimento web frontend: HTML & CSS.
 
 Bem-vindo(a) ao meu repositório de estudos frontend! Aqui armazeno todo o conhecimento e projetos desenvolvidos durante meu curso de formação em desenvolvimento web frontend.
